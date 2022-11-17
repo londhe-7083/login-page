@@ -1,0 +1,151 @@
+input {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+select {
+  padding: 10px;
+  border-radius: 5px;
+ }
+
+#upload {
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+
+#headerSection {
+  padding: 2px;
+  font-family: Cursive;
+}
+
+#loginSection {
+  color: white;
+  padding: 5px;
+}
+
+body {
+  background-color: #150d5fec;
+}
+
+#loginbtn {
+  padding: 5px;
+  font-size: 15px;
+  background-color: #ceda1f;
+  color: white;
+  border-radius: 5px;
+}
+
+#reglink {
+  padding: 5px;
+  font-size: 15px;
+  background-color: #298dcf;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+#mainSection {
+  padding: 10px;
+}
+
+#profileSection {
+  width: 30%;
+  float: left;
+  background-color: white;
+  padding: 20px;
+}
+
+#groupSection {
+  width: 60%;
+  float: right;
+  background-color: rgba(255, 255, 255, 0.911);
+  padding: 20px;
+}
+
+#back-button {
+  float: left;
+  margin-left: 20px;
+  margin-top: 20px;
+  padding: 5px;
+  font-size: 15px;
+  background-color: #c1df16d3;
+  color: white;
+  border-radius: 5px;
+}
+
+#result {
+  
+  margin-left: 40px;
+  margin-top: 100px;
+  padding : 5px;
+  font-size: 15px;
+  background-color: red;
+  color: white;
+  border-radius: 9px;
+}
+
+
+
+/* img{
+  width:100px;
+  height:100px;
+  object-fit: contain;
+} */
+
+#logout-button {
+  float: right;
+  margin-right: 20px;
+  margin-top: 20px;
+  padding: 5px;
+  font-size: 15px;
+  background-color: #b1c92dd8;
+  color: white;
+  border-radius: 5px;
+}
+
+img{
+    width:100px;
+    height: 100px;
+    object-fit: contain;
+}
+
+#id {padding:5px;
+
+}
+
+#logbtn{
+  float: left;
+  margin: 20px;
+  margin-top: 20px;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: green;
+  color :#d6d6d2;
+
+}
+
+#backbtn{
+   float: right;
+  margin: 20px;
+  margin-top: 20px;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: green;
+  color :#d6d6d2;
+}
+
+#logout{
+  background-color:#ceda1f;
+}
+
+#sv-3
+{
+ font-style: 'bolt';
+
+}
+

@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>
+            programming languages </title>
+
+</head>
+<body>
+    <from action="<?php echo $_SERVER['PHP_SELF']?>" method="GET">
+    select Programming Languages:<br />
+    <select name ="languages[]" >
+        <option value="c">C</option>
+        <option value="c++">c++</option>
+        <option value="PHP">PHP</option>
+        <option value="perl">perl</option>
+<?php echo"hoo"; ?>
+</select><br>
+<input type="submit" name="s" value="ok" />
+</form>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+<?php
+     if(isset($_GET['s']))
+     {
+         echo"hii";
+      $lan=$_GET['languages'];
+      echo "you selected<br>";
+      foreach($lan as $k=>$v)    
+      echo "$v ";
+    }
+?>
+</body>
+</html>

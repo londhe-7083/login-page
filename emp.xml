@@ -1,0 +1,29 @@
+//read emp.xml file print employee deatails in tabular format 
+<?xml version="1.0" encoding="utf-8"?>
+<employee>
+<emp>
+<empno>122</empno>
+<empname>shubh</empname>
+<salary>1455</salary>
+<designation>accountant</designation>
+</emp>
+<emp>
+<empno>456</empno>
+<empname>shiv</empname>
+<salary>1365</salary>
+<designation>programer</designation>
+</emp>
+<emp>
+<empno>485</empno>
+<empname>karan</empname>
+<salary>789</salary>
+<designation>accountant</designation>
+</emp>
+<emp>
+<empno>322</empno>
+<empname>sri</empname>
+<salary>852</salary>
+<designation>developer</designation>
+</emp>
+</employee>
+

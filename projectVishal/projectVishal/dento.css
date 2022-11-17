@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0px;
+    
+}
+@media(max-width:666px){
+    .textsize{
+        font-size: 25px;    
+    }
+    .textsize2{
+        font-size: 12px;
+        text-align: center;
+        
+    }
+    .slidersize{
+        height: 550px;
+    }
+    .slidersizee{
+        height: 450px;
+    }
+   
+}
+
+@media(min-width:667px){
+    .textsize{
+        font-size: 50px; 
+       
+    }
+    .textsize2{
+        font-size: 25px;
+        text-align: center;
+        
+    }
+    .slidersize{
+        height: 700px;
+        
+    }
+    .slidersizee{
+        height: 600px;
+        
+        
+    }
+    .textsize4{
+        font-size: 13px;
+    }
+   
+}
+
+
+
+
+
+.hsla{
+    background-color:rgba(4, 38, 207, 0.438);top:0;bottom:0px;right:0px;left:0px;
+}
+.hsla2{
+    padding-top: 8px;
+    background-color:rgba(0, 17, 102, 0.438);top:0;bottom:0px;right:0px;left:0px;
+}
+
+
+table{
+    border: 4px solid white;
+}
+tr{
+    border: 4px solid white;
+}
+th{
+    border: 4px solid white;
+}
+td{
+    border: 4px solid white;
+}
+
+
+.border_title{
+    border-bottom: 4px solid rgba(45, 142, 253, 0.699);
+    width: 70px;
+    
+}
+.social-media li{
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 10px;
+}
+.slider1{
+    background-image: url(image/J11.jpg);
+    background-size:100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+   
+}
+.slider2{
+    background-image: url(image/J2.jpg);
+    background-size:100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+   
+}
+.slider3{
+    background-image: url(image/J9.jpg);
+    background-size:100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+   
+}
+.slider4{
+    background-image: url(image/J12.jpg);
+    background-size:100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+   
+}
+
+.slider5{
+    background-image: url(image/J12.jpg);
+    background-size:100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+   
+}
+.slider6{
+    background-image: url(https://cdn.pixabay.com/photo/2017/01/29/21/16/nurse-2019420_1280.jpg);
+    background-size:100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+   
+}
+.slider7{
+    background-image: url(https://cdn.pixabay.com/photo/2020/03/11/07/41/toothbrush-4921278_1280.jpg);
+    background-size:100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+   
+}
+
+
+
+.dentist{
+    height: 300px;
+    width: 100%;
+    background-image: url('https://preview.colorlib.com/theme/dento/img/bg-img/x9.png.pagespeed.ic.A5OdBpmZhq.webp');
+    background-size: 100% 100%;
+}
+ .dentist2{
+    height: 300px;
+    width: 100%;
+    background-image: url('	https://preview.colorlib.com/theme/dento/img/bg-img/x10.png.pagespeed.ic.Evdko4uIO3.webp');
+    background-size: 100% 100%;
+}
+
+.dentist3{
+    height: 300px;
+    width: 100%;
+    background-image: url('	https://preview.colorlib.com/theme/dento/img/bg-img/x11.png.pagespeed.ic.Q1i2nU0yLu.webp');
+    background-size: 100% 100%;
+}
+
+
+
+.card:hover ul li {
+    display: inline-block;
+    transition-duration: 700ms;
+    cursor: pointer;
+}
+
+.card_icon li:hover {
+    background-color: rgb(34, 146, 221);
+    color: white;
+}
+
+
+
+
+

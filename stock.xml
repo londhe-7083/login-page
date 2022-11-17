@@ -1,0 +1,8 @@
+<?xml 
+version="1.0" encoding="utf-8" ?>
+<stockList>
+  <item type="fruit">
+  <uniteprice>0.99</uniteprice>
+  <quantity>67</quantity>
+  </item>
+  </stockList>
